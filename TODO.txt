@@ -1,0 +1,13 @@
+1. createPost -- custom querybuilder works but .create does not work
+  REFACTOR THAT CODE
+
+2. fix the global error handler in the urql client // createUrqlCLient.ts
+
+3. fix when another user votes 2 times logic
+
+4. .env for the sql is not working -- checkout your username password port etc
+
+
+
+
+DEPLOY
